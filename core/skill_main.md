@@ -4,7 +4,7 @@
 - name: academic-paper-polish-skill
 - title: 通用学术论文专业润色能力
 - description: 对期刊、学位论文段落/全文标准化润色，遵循25条学术写作规范，自动识别文本层级（篇章/小节/段落/句子）与文体角色（引言介绍/方法/结果陈述/结论）并分策略处理，优化逻辑、术语、数据表述，不篡改原文数据、公式、核心观点
-- version: V1.1.0
+- version: V1.1.1
 - depend_file: core/rule_base.md、core/style_standard.md、constraints/forbidden_action.md、constraints/data_form_spec.md
 - author: paper-polish-team
 

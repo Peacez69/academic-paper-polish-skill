@@ -35,7 +35,7 @@
 
 ## 测试层
 - [x] test/test_suite.xlsx 全量用例通过率 100%（14/14）
-- [x] 测试报告已填写（test/test_report_V1.1.0.md）
+- [x] 测试报告已填写（test/test_report_V1.1.1.md）
 
 ## 文档层
 - [x] iteration_record.md 完整记录本次版本变更
@@ -43,8 +43,8 @@
 - [x] 所有依赖文件引用路径正确
 
 ## 发布结论
-- 版本号：V1.1.0
+- 版本号：V1.1.1
 - 发布日期：2026-08-12
-- 全量用例通过率：100%（14/14，见 test/test_report_V1.1.0.md）
-- 发布包：academic-paper-polish-skill-v1.1.0.zip（22 个文件，与工作区逐文件哈希一致）
-- [x] 全部自检项通过，正式发布 V1.1.0
+- 全量用例通过率：100%（27/27，见 test/test_report_V1.1.1.md）
+- 发布包：academic-paper-polish-skill-v1.1.1.zip（23 个文件，与工作区逐文件哈希一致）
+- [x] 全部自检项通过，正式发布 V1.1.1

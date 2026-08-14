@@ -6,18 +6,11 @@
 
 如需在 README 首页展示捐赠收款码：
 
-1. 将收款码图片（PNG/JPG，建议尺寸 300×300 以内）保存为本目录下的 `donate-qr.png`
-2. 打开仓库根目录 `readme.md`，找到「💖 捐赠支持」小节
-3. 取消下面这行注释：
+1. 将收款码图片保存为本目录下的 `donate-qr.jpg`（或 `donate-qr.png`，扩展名与图片实际格式保持一致）
+2. 打开仓库根目录 `readme.md`，找到「💖 捐赠支持」小节，确认图片引用文件名与实际文件一致：
 
 ```markdown
-<!-- ![捐赠收款码](docs/donate-qr.png) -->
+![捐赠收款码](docs/donate-qr.jpg)
 ```
 
-改为：
-
-```markdown
-![捐赠收款码](docs/donate-qr.png)
-```
-
-4. 提交并推送，README 首页即可展示收款码
+3. 提交并推送，README 首页即可展示收款码
